@@ -1,0 +1,134 @@
+{
+  "newArrival": [
+    {
+      "id": "na-1",
+      "name": "Citizen Eco-Drive",
+      "price": 22500,
+      "img": "assets/new-arrival/citizen-eco-drive.jpg",
+      "tag": "New"
+    },
+    {
+      "id": "na-2",
+      "name": "Seiko Presage",
+      "price": 31500,
+      "img": "assets/new-arrival/seiko-presage.jpg",
+      "tag": "New"
+    },
+    {
+      "id": "na-3",
+      "name": "Casio Vintage",
+      "price": 5500,
+      "img": "assets/new-arrival/casio-vintage.jpg",
+      "tag": "New"
+    },
+    {
+      "id": "na-4",
+      "name": "Rolex Oyster Perpetual",
+      "price": 120000,
+      "img": "assets/new-arrival/rolex-oyster-perpetual.jpg",
+      "tag": "New"
+    },
+    {
+      "id": "na-5",
+      "name": "Titan Edge",
+      "price": 18500,
+      "img": "assets/new-arrival/titan-edge.jpg",
+      "tag": "New"
+    },
+    {
+      "id": "na-6",
+      "name": "Michael Kors Slim Runway",
+      "price": 26500,
+      "img": "assets/new-arrival/michael-kors-slim-runway.jpeg",
+      "tag": "New"
+    }
+  ],
+  "men": [
+    {
+      "id": "m-1",
+      "name": "Rolex Submariner",
+      "price": 150000,
+      "img": "assets/men/rolex-submariner.jpg",
+      "tag": "Men"
+    },
+    {
+      "id": "m-2",
+      "name": "Titan Automatic",
+      "price": 18500,
+      "img": "assets/men/titan-automatic.jpg",
+      "tag": "Men"
+    },
+    {
+      "id": "m-3",
+      "name": "Quartz Sport",
+      "price": 7800,
+      "img": "assets/men/quartz-sport.jpg",
+      "tag": "Men"
+    },
+    {
+      "id": "m-4",
+      "name": "Seiko 5 Sports",
+      "price": 22000,
+      "img": "assets/men/seiko-5-sports.jpg",
+      "tag": "Men"
+    },
+    {
+      "id": "m-5",
+      "name": "Casio G-Shock",
+      "price": 12000,
+      "img": "assets/men/casio-g-shock.jpg",
+      "tag": "Men"
+    },
+    {
+      "id": "m-6",
+      "name": "Citizen Chronograph",
+      "price": 28000,
+      "img": "assets/men/citizen-chronograph.jpg",
+      "tag": "Men"
+    }
+  ],
+  "women": [
+    {
+      "id": "w-1",
+      "name": "Michael Kors Rose Gold",
+      "price": 26500,
+      "img": "assets/women/michael-kors-rose-gold.jpg",
+      "tag": "Women"
+    },
+    {
+      "id": "w-2",
+      "name": "Fossil Carlie",
+      "price": 21500,
+      "img": "assets/women/fossil-carlie.jpg",
+      "tag": "Women"
+    },
+    {
+      "id": "w-3",
+      "name": "Casio Minimal",
+      "price": 6500,
+      "img": "assets/women/casio-minimal.jpg",
+      "tag": "Women"
+    },
+    {
+      "id": "w-4",
+      "name": "Seiko Lukia",
+      "price": 32000,
+      "img": "assets/women/seiko-lukia.jpg",
+      "tag": "Women"
+    },
+    {
+      "id": "w-5",
+      "name": "Citizen Silhouette",
+      "price": 28500,
+      "img": "assets/women/citizen-silhouette.jpg",
+      "tag": "Women"
+    },
+    {
+      "id": "w-6",
+      "name": "Titan Raga",
+      "price": 15000,
+      "img": "assets/women/titan-raga.jpg",
+      "tag": "Women"
+    }
+  ]
+}
